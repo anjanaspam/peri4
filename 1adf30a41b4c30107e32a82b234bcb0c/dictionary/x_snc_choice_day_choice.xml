@@ -2,7 +2,6 @@
     <element label="Choice" max_length="40" name="x_snc_choice_day_choice" type="collection">
         <element choice="1" label="Choice" max_length="40" name="choice" type="choice">
             <choice>
-                <element inactive_on_update="false" label="monday" value="monday"/>
                 <element inactive_on_update="false" label="truesday" value="tuesday"/>
                 <element inactive_on_update="false" label="wednesday" value="wednesday"/>
             </choice>

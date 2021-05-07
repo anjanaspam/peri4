@@ -21,26 +21,6 @@
             <element>choice</element>
             <hint/>
             <inactive>false</inactive>
-            <label>monday</label>
-            <language>en</language>
-            <name>x_snc_choice_day_choice</name>
-            <sequence/>
-            <synonyms/>
-            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
-            <sys_created_on>2021-05-07 17:29:03</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>8210c5a41b4c30107e32a82b234bcb99</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
-            <sys_updated_on>2021-05-07 17:29:12</sys_updated_on>
-            <value>monday</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>choice</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>truesday</label>
             <language>en</language>
             <name>x_snc_choice_day_choice</name>
